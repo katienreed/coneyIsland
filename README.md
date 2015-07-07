@@ -2,8 +2,8 @@
 ### To Do:
 
 **Architecture**
-- Link D3
-- Link Materialize CSS
+- ~~Link D3~~
+- ~~Link Materialize CSS~~
 
 **Data**
 - Data points for hot dog consumption / minute in 2015
